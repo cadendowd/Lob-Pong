@@ -21,7 +21,6 @@ public class Game extends JComponent implements KeyListener {
 	private static final long serialVersionUID = 1L;
 	JFrame frame;
 	Canvas canvas;
-	GUI gui;
 	Timer timer;
 	private int screenWidth = 800;
 	private int screenHeight = 750;
